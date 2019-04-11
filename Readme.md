@@ -1,5 +1,5 @@
 # NumPy 100 挑战
-![](https://img.shields.io/badge/NumPy100-Study-brightgreen.svg)![](<https://img.shields.io/badge/Vophan-StarMe-blue.svg>)![](<https://img.shields.io/badge/NumPy-Hot-red.svg>)
+![](https://img.shields.io/badge/NumPy100-Study-brightgreen.svg)   ![](<https://img.shields.io/badge/Vophan-StarMe-blue.svg>)   ![](<https://img.shields.io/badge/NumPy-Hot-red.svg>)
 
 > **NumPy**是[Python语言](https://zh.wikipedia.org/wiki/Python)的一个扩展程序库。支持高端大量的[维度](https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%BA%A6)[数组](https://zh.wikipedia.org/wiki/%E9%99%A3%E5%88%97)与[矩阵](https://zh.wikipedia.org/wiki/%E7%9F%A9%E9%99%A3)运算，此外也针对数组运算提供大量的[数学](https://zh.wikipedia.org/wiki/%E6%95%B8%E5%AD%B8)[函数](https://zh.wikipedia.org/wiki/%E5%87%BD%E6%95%B8)[库](https://zh.wikipedia.org/wiki/%E5%87%BD%E5%BC%8F%E5%BA%AB)。NumPy的前身**Numeric**最早是由Jim Hugunin与其它协作者共同开发，2005年，Travis Oliphant在Numeric中结合了另一个同性质的程序库Numarray的特色，并加入了其它扩展而开发了NumPy。NumPy为开放源代码并且由许多协作者共同维护开发。
 
@@ -15,5 +15,5 @@ import numpy as np
 
 欢迎任何有共同兴趣的朋友，与我一起讨论。（记得给我点个小小的Star哦）
 
-![](/home/vophan/下载/mmqrcode1554945934079.png)
+![](https://github.com/skyf0cker/NumPy100/blob/master/qrcode.png)
 
